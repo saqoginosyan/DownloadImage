@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="downloaded">Already Downloaded !</string>
+    <string name="download_image_btn">Download Image</string>
+    <string name="title">Title</string>
+    <string name="loading">Loading</string>
+
+    <string-array name="imageTitle">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        <item>Image 7</item>
+        <item>Image 8</item>
+        <item>Image 9</item>
+        <item>Image 10</item>
+    </string-array>
+
+    <string-array name="imageUrl">
+        <item>http://nlwirth.com/photography/wp-content/uploads/2012/06/Petaluma-Dairy-Farms-jpg.jpg</item>
+        <item>http://liamfrankland.com/wp-content/uploads/suffolk-landscape-photography-fading-rapeseed.jpg</item>
+        <item>https://cdn.freshome.com/wp-content/uploads/2015/01/architecture-black-and-white.jpg</item>
+        <item>https://lh3.googleusercontent.com/zTnIqWG21H8yAtkf_ULTYLS4h9fiApJt9GaWIKW9zBC56tzD1Zwxi9NikQlZvvbyu-v1Eb6198SfhHMic-ULn2c=s1024</item>
+        <item>https://cameralabs.org/media/lab17/09/08/konkurs-cherno-beloy-fotografii_15.jpg</item>
+        <item>http://www.exmoorarts.com/wp-content/uploads/2016/06/deserted-beach-beech-square.jpg</item>
+        <item>http://www.tpw.it/wordpress/wp-content/uploads/2017/05/My-own-Rave.-Roma-Danzante-in-mezzo-copia.jpg</item>
+        <item>http://zoltangabor.com/wp-content/uploads/2014/11/IMG_4694_LR_small.jpg</item>
+        <item>https://www.cgattic.ca/image-files/realistic-drawings-of-nature-1.jpg</item>
+        <item>https://static1.squarespace.com/static/5373cf10e4b0acdd68dd184f/t/5387e9a5e4b0b80086b3720b/1401416105552/Richardson+Nature+Center+Tree</item>
+    </string-array>
+</resources>
